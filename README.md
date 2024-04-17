@@ -15,6 +15,19 @@ Un cop que ja teniu creada la **Classe `Factorial`**, cal que creeu un projecte 
 1. *nom de la classe*: **`Factorial`**
 
 
+![01-new-project](./img/01-new-project.png)
+
+![02-new-package](./img/02-new-package.png)
+
+![03-package-name](./img/03-package-name.png)
+
+![04-new-class](./img/04-new-class.png)
+
+![05-class-name](./img/05-class-name.png)
+
+![06-sample-class](./img/06-sample-class.png)
+
+
 Podeu seguir el passos als següents enllaços:
 
 [Prepare a project](https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html#get-started)
