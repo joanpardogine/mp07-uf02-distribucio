@@ -40,3 +40,9 @@ Podeu seguir el passos als següents enllaços:
 
 [Run the packaged application](https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html#run_jar_artifact)
 
+
+El codi per desenvolupar la **Classe** **`Factorial`** pot ser el següent.
+
+![07-code-factorial](./img/07-code-factorial.png)
+
+
